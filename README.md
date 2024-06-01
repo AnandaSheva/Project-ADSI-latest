@@ -11,11 +11,13 @@ Analisis dan Desain Sistem Informasi - Kelompok 1
 
 ## Project Demo 
 
-### Admin
+### https://sheva-workspace.000webhostapp.com/index.php
 
-![demo - admin](https://github.com/FarhanDzakyA/Project-ADSI/assets/112398221/103eba3b-3fc4-4980-b490-958e91dee401)
+#### Admin
+Username : adminganteng <br>
+Password : admin123
 
-### Manajer
-
-![demo - manajer](https://github.com/FarhanDzakyA/Project-ADSI/assets/112398221/61c16638-8202-467d-af3e-72c3db6e897d)
+#### Manajer
+Username : manajerganteng <br>
+Password : manajer123
 
